@@ -72,11 +72,11 @@ session_start();
                 <i class='bx bx-heart' ></i>
               </div>
               <div class="ratting">
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
                 <i class='bx bxs-star-half' ></i>
               </div>
 
@@ -95,11 +95,11 @@ session_start();
                 <i class='bx bx-heart' ></i>
               </div>
               <div class="ratting">
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
                 <i class='bx bxs-star-half' ></i>
               </div>
 
@@ -116,12 +116,12 @@ session_start();
                 <i class='bx bx-heart' ></i>
               </div>
               <div class="ratting">
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
                 <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bxs-star-half' ></i>
               </div>
 
               <div class="price">
@@ -139,12 +139,12 @@ session_start();
                 <i class='bx bx-heart' ></i>
               </div>
               <div class="ratting">
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
                 <i class='bx bx-star' ></i>
                 <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bxs-star-half' ></i>
               </div>
 
               <div class="price">
@@ -160,11 +160,11 @@ session_start();
                 <i class='bx bx-heart' ></i>
               </div>
               <div class="ratting">
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
                 <i class='bx bxs-star-half' ></i>
               </div>
 
@@ -183,12 +183,12 @@ session_start();
                 <i class='bx bx-heart' ></i>
               </div>
               <div class="ratting">
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
                 <i class='bx bxs-star-half' ></i>
+                <i class='bx bx-star' ></i>
               </div>
 
               <div class="price">
@@ -206,12 +206,12 @@ session_start();
                 <i class='bx bx-heart' ></i>
               </div>
               <div class="ratting">
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
                 <i class='bx bx-star' ></i>
                 <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bxs-star-half' ></i>
               </div>
 
               <div class="price">
@@ -229,12 +229,12 @@ session_start();
                 <i class='bx bx-heart' ></i>
               </div>
               <div class="ratting">
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
-                <i class='bx bx-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
+                <i class='bx bxs-star' ></i>
                 <i class='bx bxs-star-half' ></i>
+                <i class='bx bx-star' ></i>
+                <i class='bx bx-star' ></i>
               </div>
 
               <div class="price">
